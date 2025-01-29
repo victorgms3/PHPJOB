@@ -7,7 +7,7 @@ new Developpeur(650,"Poirie", "Ethan", "ach@test.net",
 "0707070707",2750, "C++")) ; ;
 
 
-$manager = array(new Manager(500,"RIPAULT", "Alexis", "alexis@manager.net", "0606060606",4000, "DSI"), new Manager(600,"OLIVEIRA", "Romain", "romain@manager.net", "0808080808",3000, "Chef de service")) ;
+
 
 
 foreach ($developpeur as $value) {
